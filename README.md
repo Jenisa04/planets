@@ -1,5 +1,5 @@
 # planets
-Check out the website here: myplanets.netlify.app
+Check out the website here: https://myplanets.netlify.app/
 
 I have used some self-created animations and CSS styles in this project with a Flexbox layout 
 
